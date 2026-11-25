@@ -1,0 +1,6 @@
+{
+  "name": "ArchDraft",
+  "description": "Fast, touch-friendly 2D architectural floor plan conceptualization and drafting app with smart temporary dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
